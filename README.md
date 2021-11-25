@@ -15,7 +15,6 @@ Skills: C/C++/HTML/CSS/JavaScript/NodeJs/MongoDB
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sticktrick3181)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sticktrick3181&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sticktrick3181)  
 
