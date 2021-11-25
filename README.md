@@ -2,7 +2,7 @@
 #### A CSE undergrad from NIT-H.
 ![A CSE undergrad from NIT-H.](https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png)
 
-Welcome to my Github profile , go through my fun projects and fork whikever you like.🌳🌳
+Welcome to my Github profile , go through my fun projects and fork whichever you like.🌳🌳
 
 Skills: C/C++/HTML/CSS/JavaScript/NodeJs/MongoDB
 
